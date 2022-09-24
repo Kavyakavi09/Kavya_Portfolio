@@ -13,6 +13,7 @@ import {
   SocialContainer,
   SocialIconsContainer,
 } from './FooterStyles';
+import Button from '../../styles/GlobalComponents/Button';
 
 const Footer = () => {
   return (
@@ -31,7 +32,14 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>
+            {' '}
+            <a
+              href='https://drive.google.com/file/d/154ULCDAI8iQOs4RdUeJzdZoRFnR8k_2r/view?usp=sharing'
+              target='_blank'>
+              <Button>View Resume</Button>
+            </a>
+          </Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href='https://github.com/Kavyakavi09' target={'_blank'}>

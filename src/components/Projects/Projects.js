@@ -46,8 +46,11 @@ const Projects = () => (
               <ExternalLinks href={p.visit} target='_blank'>
                 Application
               </ExternalLinks>
-              <ExternalLinks href={p.source} target='_blank'>
-                Code
+              <ExternalLinks href={p.sourceFront} target='_blank'>
+                Frontend Code
+              </ExternalLinks>
+              <ExternalLinks href={p.sourceBack} target='_blank'>
+                Backend Code
               </ExternalLinks>
             </UtilityList>
           </BlogCard>

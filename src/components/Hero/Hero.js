@@ -46,7 +46,7 @@ const Hero = () => (
           Learn More
         </Button> */}
         <a href='kavyaprofile.pdf' download={'kavyaprofile.pdf'}>
-          <Button>Get Resume</Button>
+          <Button>Download Resume</Button>
         </a>
       </LeftSection>
     </Section>
