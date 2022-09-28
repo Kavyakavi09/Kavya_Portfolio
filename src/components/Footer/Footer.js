@@ -35,7 +35,7 @@ const Footer = () => {
           <Slogan>
             {' '}
             <a
-              href='https://drive.google.com/file/d/154ULCDAI8iQOs4RdUeJzdZoRFnR8k_2r/view?usp=sharing'
+              href='https://drive.google.com/file/d/1oHg5Zg9PAlSHM9G1R7M6nrtfA-tOB9mx/view'
               target='_blank'>
               <Button>View Resume</Button>
             </a>
