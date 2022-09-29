@@ -1,5 +1,5 @@
 ## Personal Portfolio
 
-## Live(https://kavyakavi.netlify.app/)
+## Live(https://kavyakaruppusamy.netlify.app/)
 ![Portfolio Website](https://i.ibb.co/5xbRBJb/portfolio.png)
 
